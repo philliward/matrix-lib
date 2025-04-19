@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.fsh": "glsl",
+        "*.vsh": "glsl",
+        "*.csh": "glsl",
+        "stdexcept": "cpp",
+        "memory": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "iomanip": "cpp",
+        "format": "cpp",
+        "charconv": "cpp",
+        "iosfwd": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "utility": "cpp",
+        "xutility": "cpp",
+        "limits": "cpp",
+        "compare": "cpp",
+        "type_traits": "cpp"
+    }
+}
