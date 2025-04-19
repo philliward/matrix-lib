@@ -7,6 +7,8 @@
 #include <iomanip>
 #include <string>
 
+#define max(a,b) (a > b ? a : b)
+
 class Matrix;
 
 using namespace std;

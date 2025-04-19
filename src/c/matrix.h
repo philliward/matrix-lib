@@ -5,6 +5,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+#define max(a,b) (a > b ? a : b)
+
 // I'm assuming these matrices store floats.
 typedef float element;
 
